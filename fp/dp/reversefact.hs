@@ -1,3 +1,4 @@
+-- https://www.hackerrank.com/challenges/reverse-factorization
 import Data.Functor
 import Data.List
 import Control.Monad
